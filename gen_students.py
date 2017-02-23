@@ -13,10 +13,12 @@ with open('names.txt') as f:
             "fname":line.split(' ')[0],
             "lname":line.split(' ')[1],
             "class":classes[class_count % 5],
-            "absents":randint(0,10),
-            "grade":randint(40,100),
+            "absents":randint(0,5),
+            "grade":randint(50,100),
             "parent-email":"test.parent.cs09@gmail.com",
-            "parent-phone":"9788355236"
+            "parent-phone":"9788355236",
+            "timesTexted":0,
+            "timesEmailed":0
         }
         class_count+=1
         final.append(s)
