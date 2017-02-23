@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>TODO - TITLE GOES HERE</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+</head>
+<body>
+    <div id="main-container">
+        <header>
+            <div id="class-list">
+                <a href="/A" class="class">A</a>
+                <a href="/B" class="class">B</a>
+                <a href="/C" class="class">C</a>
+                <a href="/D" class="class">D</a>
+                <a href="/E" class="class">E</a>
+            </div>
+            <div id="class-show">
+                Current class: {{period}}
+            </div>
+        </header>
+        <div id="main">
+            <div id="students">
+                <table id="student-list" class='table'>
+                    <tr>
+                        <th class="center">First Name</th>
+                        <th class="center">Last Name</th>
+                        <th class="center">Grade</th>
+                        <th class="center"># Times Absent</th>
+                        <th class="center">Texted</th>
+                        <th class="center">Emailed</th>
+                    </tr>
+                {% for s in students %}
+                <tr>
+                    <td>{{s.fname}}</td>
+                    <td>{{s.lname}}</td>
+                    <td class="center">{{s.grade}}</td>
+                    <td class="center">{{s.absents}}</td>
+                    <td class="center">{{s.text_success}}</td>
+                    <td class="center">{{s.email_success}}</td>
+                </tr>
+                {% endfor %}
+                </table>
+            </div>
+            <div id="options">
+                <form action="/send" method="POST">
+                    <input class="hidden" name="period" value="{{period}}">
+                    <p>Send notifications for:</p>
+                    <input type="checkbox" name="alert-fail" id="alert-fail" class="options">
+                    <label for="alert-fail">Alert Failing Students</label><br>
+                    <input type="checkbox" name="alert-absent" id="alert-absent" class="options">
+                    <label for="alert-absent">Alert Excessively Absent Students</label><br>
+                    <input type="checkbox" name="remind-assessment" id="remind-assessment" class="options">
+                    <label for="remind-assessment">Remind of Major Assessment</label><br>
+                    <input type="checkbox" name="remind-ptc" id="remind-ptc" class="options">
+                    <label for="remind-ptc">Remind of Parent-Teacher Conferences</label><br>
+                    <p>Notification options:</p>
+                    <input type="checkbox" name="recommend" id="recommend" class="options">
+                    <label for="recommend">Include recommendations in email</label><br>
+                    <input type="checkbox" name="send-email" id="send-email" class="options">
+                    <label for="send-email">Send email to parents</label><br>
+                    <input type="checkbox" name="send-text" id="send-text" class="options">
+                    <label for="send-text">Send SMS to parents</label><br>
+                    <input type="submit" value="Send">
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

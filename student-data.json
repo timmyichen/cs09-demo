@@ -1,0 +1,272 @@
+[
+    {
+        "absents": 0,
+        "class": "A",
+        "fname": "Ira",
+        "grade": 93,
+        "lname": "Knight",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 4,
+        "class": "B",
+        "fname": "Alan",
+        "grade": 100,
+        "lname": "Smith",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 7,
+        "class": "C",
+        "fname": "Gisela",
+        "grade": 64,
+        "lname": "O'Brian",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 10,
+        "class": "D",
+        "fname": "Alma",
+        "grade": 63,
+        "lname": "Patton",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 2,
+        "class": "E",
+        "fname": "Sonya",
+        "grade": 51,
+        "lname": "Vanmatre",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 10,
+        "class": "A",
+        "fname": "Deborah",
+        "grade": 63,
+        "lname": "Boyd",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 6,
+        "class": "B",
+        "fname": "Daniel",
+        "grade": 90,
+        "lname": "Glidewell",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 5,
+        "class": "C",
+        "fname": "Olive",
+        "grade": 60,
+        "lname": "Rodriguez",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 4,
+        "class": "D",
+        "fname": "Julie",
+        "grade": 80,
+        "lname": "Wilkinson",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 7,
+        "class": "E",
+        "fname": "Royce",
+        "grade": 57,
+        "lname": "Phillips",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 9,
+        "class": "A",
+        "fname": "Anna",
+        "grade": 80,
+        "lname": "Esqueda",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 3,
+        "class": "B",
+        "fname": "Emma",
+        "grade": 92,
+        "lname": "Schrader",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 10,
+        "class": "C",
+        "fname": "Edith",
+        "grade": 43,
+        "lname": "Brooks",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 3,
+        "class": "D",
+        "fname": "Emma",
+        "grade": 77,
+        "lname": "Manning",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 7,
+        "class": "E",
+        "fname": "Nancy",
+        "grade": 79,
+        "lname": "Cohen",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 0,
+        "class": "A",
+        "fname": "Hilary",
+        "grade": 43,
+        "lname": "Rose",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 3,
+        "class": "B",
+        "fname": "Lillie",
+        "grade": 60,
+        "lname": "O'Neill",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 9,
+        "class": "C",
+        "fname": "Keith",
+        "grade": 80,
+        "lname": "Olson",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 10,
+        "class": "D",
+        "fname": "Joann",
+        "grade": 74,
+        "lname": "Boyce",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 2,
+        "class": "E",
+        "fname": "Doris",
+        "grade": 57,
+        "lname": "Lewis",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 9,
+        "class": "A",
+        "fname": "William",
+        "grade": 87,
+        "lname": "Zubia",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 5,
+        "class": "B",
+        "fname": "Rose",
+        "grade": 88,
+        "lname": "Dixon",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 0,
+        "class": "C",
+        "fname": "Hazel",
+        "grade": 100,
+        "lname": "Lusby",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 1,
+        "class": "D",
+        "fname": "Susan",
+        "grade": 68,
+        "lname": "Ennis",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 2,
+        "class": "E",
+        "fname": "Bob",
+        "grade": 57,
+        "lname": "Jones",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 6,
+        "class": "A",
+        "fname": "Jane",
+        "grade": 97,
+        "lname": "Doe",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 3,
+        "class": "B",
+        "fname": "John",
+        "grade": 66,
+        "lname": "Henry",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 2,
+        "class": "C",
+        "fname": "George",
+        "grade": 93,
+        "lname": "Henry",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 6,
+        "class": "D",
+        "fname": "Victor",
+        "grade": 58,
+        "lname": "Smith",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    },
+    {
+        "absents": 1,
+        "class": "E",
+        "fname": "Bertha",
+        "grade": 63,
+        "lname": "McDowell",
+        "parent-email": "test.parent.cs09@gmail.com",
+        "parent-phone": "9788355236"
+    }
+]
